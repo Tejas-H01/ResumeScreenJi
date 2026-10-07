@@ -1,0 +1,6 @@
+{
+  "decision_model": "C:\\ML_PROJECTS\\resume_screening_ml\\models\\screening_decision_model.pkl",
+  "score_model": "C:\\ML_PROJECTS\\resume_screening_ml\\models\\screening_score_model.pkl",
+  "metrics": "C:\\ML_PROJECTS\\resume_screening_ml\\outputs\\screening_model_metrics.csv",
+  "report": "C:\\ML_PROJECTS\\resume_screening_ml\\outputs\\screening_decision_report.csv"
+}

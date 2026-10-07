@@ -1,0 +1,6 @@
+{
+  "role_classifier": "C:\\ML_PROJECTS\\resume_screening_ml\\models\\role_classifier.pkl",
+  "label_encoder": "C:\\ML_PROJECTS\\resume_screening_ml\\models\\label_encoder.pkl",
+  "metrics": "C:\\ML_PROJECTS\\resume_screening_ml\\outputs\\role_classifier_metrics.csv",
+  "report": "C:\\ML_PROJECTS\\resume_screening_ml\\outputs\\role_classifier_report.csv"
+}

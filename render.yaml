@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: resume-screening-api
+    runtime: python
+    rootDir: backend
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.11
+      - key: BACKEND_CORS_ORIGINS
+        value: https://resume-screening-ml-five.vercel.app

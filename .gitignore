@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+env/
+
+# Node / React
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+npm-debug.log*
+
+# Logs
+logs/
+*.log
+
+# Large raw datasets and uploaded resumes
+data/raw/dataset_*/
+data/raw/resumes/*
+!data/raw/job_descriptions/
+!data/raw/job_descriptions/*.txt
+
+# Generated processed data and feedback
+data/processed/*.csv
+data/feedback/*.csv
+
+# Model versions and generated registry
+models/versions/
+models/model_registry.json
+
+# Generated outputs
+outputs/*.csv
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

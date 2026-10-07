@@ -1,0 +1,1 @@
+We are looking for a Full Stack Developer skilled in JavaScript, React, Node.js, REST APIs, SQL or MongoDB, Git, authentication, and deployment. The candidate should understand frontend design, backend services, database integration, testing, and collaborative software development workflows.

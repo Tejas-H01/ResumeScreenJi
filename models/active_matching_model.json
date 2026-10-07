@@ -1,0 +1,6 @@
+{
+  "matching_vectorizer": "C:\\ML_PROJECTS\\resume_screening_ml\\models\\matching_tfidf_vectorizer.pkl",
+  "matching_model": "C:\\ML_PROJECTS\\resume_screening_ml\\models\\matching_model.pkl",
+  "metrics": "C:\\ML_PROJECTS\\resume_screening_ml\\outputs\\matching_model_metrics.csv",
+  "report": "C:\\ML_PROJECTS\\resume_screening_ml\\outputs\\matching_model_report.csv"
+}
