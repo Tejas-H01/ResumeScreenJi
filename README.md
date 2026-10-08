@@ -278,7 +278,7 @@ The React frontend will be accessible at:
 ---
 
 ## Authors & Acknowledgments
-
+Tejas Halvankar 
 - **Project**: ResumeScreenJi — AI/ML Resume Screening System
 - **Technologies**: Scikit-Learn, FastAPI, React, Vite
 - **Focus**: Transparent, deterministic, and explainable Machine Learning for automated recruitment.
